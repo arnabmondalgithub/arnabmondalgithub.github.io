@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/github.io/static/css/main.c51fa996.chunk.css",
-    "main.js": "/github.io/static/js/main.9d813428.chunk.js",
-    "main.js.map": "/github.io/static/js/main.9d813428.chunk.js.map",
-    "runtime-main.js": "/github.io/static/js/runtime-main.bec23fbc.js",
-    "runtime-main.js.map": "/github.io/static/js/runtime-main.bec23fbc.js.map",
-    "static/js/2.56d9f29c.chunk.js": "/github.io/static/js/2.56d9f29c.chunk.js",
-    "static/js/2.56d9f29c.chunk.js.map": "/github.io/static/js/2.56d9f29c.chunk.js.map",
-    "static/js/3.7ad57415.chunk.js": "/github.io/static/js/3.7ad57415.chunk.js",
-    "static/js/3.7ad57415.chunk.js.map": "/github.io/static/js/3.7ad57415.chunk.js.map",
-    "index.html": "/github.io/index.html",
-    "static/css/main.c51fa996.chunk.css.map": "/github.io/static/css/main.c51fa996.chunk.css.map",
-    "static/js/2.56d9f29c.chunk.js.LICENSE.txt": "/github.io/static/js/2.56d9f29c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/github-react/static/css/main.c51fa996.chunk.css",
+    "main.js": "/github-react/static/js/main.9d813428.chunk.js",
+    "main.js.map": "/github-react/static/js/main.9d813428.chunk.js.map",
+    "runtime-main.js": "/github-react/static/js/runtime-main.c793339b.js",
+    "runtime-main.js.map": "/github-react/static/js/runtime-main.c793339b.js.map",
+    "static/js/2.56d9f29c.chunk.js": "/github-react/static/js/2.56d9f29c.chunk.js",
+    "static/js/2.56d9f29c.chunk.js.map": "/github-react/static/js/2.56d9f29c.chunk.js.map",
+    "static/js/3.7ad57415.chunk.js": "/github-react/static/js/3.7ad57415.chunk.js",
+    "static/js/3.7ad57415.chunk.js.map": "/github-react/static/js/3.7ad57415.chunk.js.map",
+    "index.html": "/github-react/index.html",
+    "static/css/main.c51fa996.chunk.css.map": "/github-react/static/css/main.c51fa996.chunk.css.map",
+    "static/js/2.56d9f29c.chunk.js.LICENSE.txt": "/github-react/static/js/2.56d9f29c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bec23fbc.js",
+    "static/js/runtime-main.c793339b.js",
     "static/js/2.56d9f29c.chunk.js",
     "static/css/main.c51fa996.chunk.css",
     "static/js/main.9d813428.chunk.js"
